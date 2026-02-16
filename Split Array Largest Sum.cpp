@@ -7,8 +7,6 @@ Return the minimized largest sum of the split.
 
 A subarray is a contiguous part of the array.
 
- 
-
 Example 1:
 
 Input: nums = [7,2,5,10,8], k = 2
